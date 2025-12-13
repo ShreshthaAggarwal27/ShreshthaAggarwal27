@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Shreshtha 👋
 
-<!--
-**ShreshthaAggarwal27/ShreshthaAggarwal27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer |  
 
-Here are some ideas to get you started:
+I’m a final-year Computer Science student focused on building **reliable systems**, writing **research-driven solutions**, and solving **hard problems at scale**.  
+I enjoy working at the intersection of **software engineering, machine learning, and applied research**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Background
+- 🎓 Final Year Student at **IIIT Lucknow**
+- 🧠 Strong focus on **Data Structures, Algorithms & System Design**
+
+---
+
+## 🛠 Tech Stack
+**Languages:** C++, Python, Java  
+**Frameworks & Tools:** React, Node.js, Git, Linux  
+**Core Areas:** DSA, Backend Systems, ML Fundamentals
+
+---
+
+## 📊 GitHub Stats
+![Shreshtha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreshthaAggarwal27&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreshthaAggarwal27&layout=compact&theme=transparent)
+
+---
+
+## 🌱 Currently Working On
+- Improving problem-solving depth (LeetCode / Codeforces)
+- Building scalable, clean backend systems
+
+---
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/shreshtha-aggarwal-56120325a/
+
