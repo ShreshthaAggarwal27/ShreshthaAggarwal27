@@ -19,11 +19,13 @@ I enjoy working at the intersection of **software engineering, machine learning,
 **Core Areas:** DSA, Backend Systems, ML Fundamentals
 
 ---
-
 ## 📊 GitHub Stats
-![Shreshtha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreshthaAggarwal27&show_icons=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreshthaAggarwal27&layout=compact&theme=transparent)
+![Shreshtha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreshthaAggarwal27&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ShreshthaAggarwal27)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreshthaAggarwal27&layout=compact)
 
 ---
 
