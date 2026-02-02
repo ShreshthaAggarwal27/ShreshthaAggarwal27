@@ -21,11 +21,9 @@ I enjoy working at the intersection of **software engineering, machine learning,
 ---
 ## 📊 GitHub Stats
 
-![Shreshtha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreshthaAggarwal27&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ShreshthaAggarwal27)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreshthaAggarwal27&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ShreshthaAggrwal27&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ShreshthaAggrwal27&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreshthaAggrwal27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
